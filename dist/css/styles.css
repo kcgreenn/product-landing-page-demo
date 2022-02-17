@@ -134,7 +134,7 @@ nav {
 /* About Styles */
 .about {
   position: relative;
-  background: url("https://i.ibb.co/1RS1dqC/section-b.jpg") no-repeat bottom
+  background: url("https://res.cloudinary.com/df5cy5c76/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1645120584/pierre-borthiry-vBCVcWUyvyM-unsplash_iqbwje.jpg") no-repeat bottom
     center/cover;
   height: auto;
   min-height: 600px;
