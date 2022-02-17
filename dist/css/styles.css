@@ -113,7 +113,9 @@ nav {
   margin: 2rem 0;
   height: auto;
 }
-
+.shocaseImg {
+  border-radius: 50%;
+}
 .showcase .container {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
