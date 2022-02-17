@@ -171,6 +171,7 @@ nav {
 .gallery {
   display: grid;
   grid-template-columns: repeat(5, 1fr);
+  max-height:100vh;
 }
 
 .gallery a {
