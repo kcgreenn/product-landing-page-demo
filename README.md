@@ -1,4 +1,4 @@
-<img src="https://res.cloudinary.com/df5cy5c76/image/upload/v1645122937/phonePortrait_lvctlu.png" title="Screenshot" />
+![Screenshot!](https://res.cloudinary.com/df5cy5c76/image/upload/v1645122937/phonePortrait_lvctlu.png "Screenshot")
 
 # Product Landing Page Demo
 
