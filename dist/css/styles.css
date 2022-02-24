@@ -305,7 +305,7 @@ footer .soc-icons a {
     font-size: 3rem;
   }
   .gallery {
-    grid-template-columns: repeat(3, 1fr);
+    grid-template-columns: repeat(2, 1fr);
   }
   .gallery a:first-child {
     grid-row: 1/1;
