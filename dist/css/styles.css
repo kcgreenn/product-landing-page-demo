@@ -171,6 +171,7 @@ nav {
 .gallery {
   display: grid;
   grid-template-columns: repeat(5, 1fr);
+  grid-template-rows: repeat(2, 396px);
   max-height: 65vh;
   overflow: hidden;
 }
@@ -201,7 +202,12 @@ nav {
 
 .gallery a:nth-child(2) {
   grid-column: 3/5;
-  max-height: 256px;
+  max-height: 512px;
+}
+
+.gallery a:nth-child(2) > img {
+  grid-column: 3/5;
+  max-height: 512px;
 }
 
 /*Footer Styled */
