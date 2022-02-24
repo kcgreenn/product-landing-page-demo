@@ -1,4 +1,4 @@
-![Screenshot!](https://res.cloudinary.com/df5cy5c76/image/upload/v1645122937/phonePortrait_lvctlu.png "Screenshot")
+![Screenshot](https://res.cloudinary.com/df5cy5c76/image/upload/v1645721195/landingPage_osb2zz.png "Screenshot")
 
 # Product Landing Page Demo
 
