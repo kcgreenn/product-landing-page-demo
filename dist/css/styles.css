@@ -306,6 +306,7 @@ footer .soc-icons a {
   }
   .gallery {
     grid-template-columns: repeat(2, 1fr);
+    height:200vh;
   }
   .gallery a:first-child {
     grid-row: 1/1;
