@@ -317,7 +317,7 @@ footer .soc-icons a {
     grid-column: 2/2;
   }
   .gallery a:last-child {
-    display: none;
+    display: inline;
   }
   footer {
     padding: 2rem 0;
